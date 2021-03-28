@@ -1,7 +1,5 @@
 1.（选做）使用 GCLogAnalysis.java 自己演练一遍串行 / 并行 /CMS/G1 的案例。
 
-见GC日志分析.md
-
 2.（选做）使用压测工具（wrk 或 sb），演练 gateway-server-0.0.1-SNAPSHOT.jar 示例。
 
 3.（选做）如果自己本地有可以运行的项目，可以按照 2 的方式进行演练。
