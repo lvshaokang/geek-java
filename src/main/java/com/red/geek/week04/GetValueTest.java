@@ -1,3 +1,5 @@
+package com.red.geek.week04;
+
 import org.junit.Test;
 
 import java.util.concurrent.*;
