@@ -1,0 +1,6 @@
+school:
+  students:
+    - studentName: lsk
+      studentAge: 20
+    - studentName: red
+      studentAge: 18

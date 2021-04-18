@@ -33,7 +33,7 @@ import static io.netty.handler.codec.http.HttpResponseStatus.NO_CONTENT;
 import static io.netty.handler.codec.http.HttpResponseStatus.OK;
 import static io.netty.handler.codec.http.HttpVersion.HTTP_1_1;
 
-@Slf4j
+//@Slf4j
 public class OkhttpOutboundHandler {
 
     HttpResponseFilter filter = new HeaderHttpResponseFilter();
